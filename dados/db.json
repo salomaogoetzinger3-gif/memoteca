@@ -69,6 +69,11 @@
       "conteudo": "          aqui funciona",
       "autoria": "salominho",
       "id": "f3bj_1sWFpA"
+    },
+    {
+      "conteudo": "          salominho é 10",
+      "autoria": "euMesmo",
+      "id": "1NSC8ntfCX8"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

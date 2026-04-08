@@ -1,79 +1,301 @@
 {
   "pensamentos": [
     {
-      "id": "2a56",
-      "conteudo": "Vc faz TI? Conserta meu celular!",
-      "autoria": "Grupo da família"
+      "id": "0PKzToXzq5k"
     },
     {
-      "id": "4c7d",
-      "conteudo": "Da vida reclama, mas sem ela não vive!",
-      "autoria": "Mestre Yoda"
+      "id": "rXzyIs6g10k"
     },
     {
-      "id": "5b8a",
-      "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev"
+      "id": "L6ojJj7PDAU"
     },
     {
-      "id": "68uy",
-      "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
-      "autoria": "Chaves"
+      "id": "pUQhTO_76Yg"
     },
     {
-      "id": "b807",
-      "conteudo": "Melhor professor, o fracasso é!",
-      "autoria": "Mestre Yoda"
+      "id": "ih0Yx5qbrx0"
     },
     {
-      "id": "9f3c",
-      "conteudo": "Você não é todo mundo!",
-      "autoria": "Mãe"
+      "id": "H0yF-PGyzFg"
     },
     {
-      "id": "6a2b",
-      "conteudo": "Foi sem querer querendo!",
-      "autoria": "Chaves"
+      "id": "DMvH86jfrp4"
     },
     {
-      "id": "7e2a",
-      "conteudo": "Que a força esteja com você!",
-      "autoria": "Mestre Yoda"
+      "id": "m1QkMSZ6mvY"
     },
     {
-      "id": "5c8f",
-      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
-      "autoria": "Mestre Yoda"
+      "id": "_nvtn3Jy6n4"
     },
     {
-      "id": "2d6e",
-      "conteudo": "Não faça drama, faça café! :)",
-      "autoria": "Dev"
+      "id": "kr9HkHVlxo8"
     },
     {
-      "id": "3f1a",
-      "conteudo": "Conserta minha impressora?",
-      "autoria": "Grupo da família"
+      "id": "IVL7prmxt30"
     },
     {
-      "id": "8b4c",
-      "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
-      "autoria": "Seu Madruga"
+      "id": "jgq08u9MCBk"
     },
     {
-      "id": "4d2e",
-      "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
-      "autoria": "Mãe"
+      "id": "9OStu6f6sR8"
     },
     {
-      "id": "f3bj_1sWFpA",
-      "conteudo": "          aqui funciona e ta funcionando",
-      "autoria": "salominho"
+      "id": "yVG1r2h2IhE"
     },
     {
-      "conteudo": "          salominho é 10",
-      "autoria": "euMesmo",
-      "id": "1NSC8ntfCX8"
+      "id": "LSt-K8RaLRk"
+    },
+    {
+      "id": "Y-I2xUiRe50"
+    },
+    {
+      "id": "E_8o66pwVhQ"
+    },
+    {
+      "id": "Dw3L2Le5IAs"
+    },
+    {
+      "id": "c2pHKEIciRM"
+    },
+    {
+      "id": "wEW4IUO8cLU"
+    },
+    {
+      "id": "pCyEsVUvuNw"
+    },
+    {
+      "id": "LLUrbNvmpVc"
+    },
+    {
+      "id": "vIkX2EX62A0"
+    },
+    {
+      "id": "WrB3T-v1I24"
+    },
+    {
+      "id": "9zfVm09Oqdg"
+    },
+    {
+      "id": "BD2bqft5CQ4"
+    },
+    {
+      "id": "EiWi1-1VvvI"
+    },
+    {
+      "id": "wKVoysUhhlA"
+    },
+    {
+      "id": "GnjFmyXpStc"
+    },
+    {
+      "id": "94HVeb13Fwk"
+    },
+    {
+      "id": "2-VbyMDfRbI"
+    },
+    {
+      "id": "O8zDc52DDPY"
+    },
+    {
+      "id": "mCq0ng-YR1s"
+    },
+    {
+      "id": "3KxrfBnXfeY"
+    },
+    {
+      "id": "hASAOO9UmH0"
+    },
+    {
+      "id": "WK-jnaSc0Z0"
+    },
+    {
+      "id": "RvqJPDAHlT0"
+    },
+    {
+      "id": "fGJJeo2l8Wo"
+    },
+    {
+      "id": "r_CajmDQH4c"
+    },
+    {
+      "id": "BwNOk4ocfiQ"
+    },
+    {
+      "id": "7DXmI5dKUtM"
+    },
+    {
+      "id": "wTBpyPz9TzA"
+    },
+    {
+      "id": "CmPtyjY9lgs"
+    },
+    {
+      "id": "w4dyJkh6xHM"
+    },
+    {
+      "id": "BVrb1xFjpbc"
+    },
+    {
+      "id": "10X5rELuyqM"
+    },
+    {
+      "id": "wcWF1Q-WZBk"
+    },
+    {
+      "id": "9zMTyZbaNXo"
+    },
+    {
+      "id": "7rl0Z0rv6sw"
+    },
+    {
+      "id": "ehct3CqJ5Vw"
+    },
+    {
+      "id": "nAAIHNeRaTo"
+    },
+    {
+      "id": "3p67m4gev6c"
+    },
+    {
+      "id": "fn5EeQCfPQc"
+    },
+    {
+      "id": "VWIBKofKhE0"
+    },
+    {
+      "id": "mNXtt-HD-Lo"
+    },
+    {
+      "id": "jSnqfcaXNU8"
+    },
+    {
+      "id": "cihbJm4gRwA"
+    },
+    {
+      "id": "yRKavK0Lo_s"
+    },
+    {
+      "id": "dUdB8zBb0s8"
+    },
+    {
+      "id": "kgdmFfbcs-Y"
+    },
+    {
+      "id": "Bjcdpd1IEn8"
+    },
+    {
+      "id": "OlAktdnQmCk"
+    },
+    {
+      "id": "TzR4LHyrZw0"
+    },
+    {
+      "id": "q_4c3BbgT1s"
+    },
+    {
+      "id": "8ZP4FVzDE4k"
+    },
+    {
+      "id": "YfoMj-E1VDo"
+    },
+    {
+      "id": "o26JuUEf2xk"
+    },
+    {
+      "id": "wQZh50WhAxQ"
+    },
+    {
+      "id": "coNubHk0yvk"
+    },
+    {
+      "id": "th2SGT5z3xo"
+    },
+    {
+      "id": "aeiCBzIT580"
+    },
+    {
+      "id": "tnt-HKQakOY"
+    },
+    {
+      "id": "0F-m1gpCJo8"
+    },
+    {
+      "id": "mw4uRpBMfzM"
+    },
+    {
+      "id": "OMeU8YE4dNs"
+    },
+    {
+      "id": "xfOnKFuDGjs"
+    },
+    {
+      "id": "FMvEc2v2-BI"
+    },
+    {
+      "id": "8V_pwtFYy-E"
+    },
+    {
+      "id": "6jKc41Mpe6I"
+    },
+    {
+      "id": "Z-O4SuMM13M"
+    },
+    {
+      "id": "swpwEAAb3Bs"
+    },
+    {
+      "id": "8yuPA8nYOHY"
+    },
+    {
+      "id": "pYL3FPHrT24"
+    },
+    {
+      "id": "4or92-tHOdk"
+    },
+    {
+      "id": "00AHQR11haQ"
+    },
+    {
+      "id": "vI1TM_CgBZM"
+    },
+    {
+      "id": "Q7RsdY4_grM"
+    },
+    {
+      "id": "exj6j-i1TMA"
+    },
+    {
+      "id": "15zez3HiC64"
+    },
+    {
+      "id": "q0vB1qpj_7I"
+    },
+    {
+      "id": "VB7vcTdGIIU"
+    },
+    {
+      "id": "bJz_kfIWgu8"
+    },
+    {
+      "id": "ddPaWrEBx3o"
+    },
+    {
+      "id": "Gwd1v9eWjG0"
+    },
+    {
+      "id": "J9SB9Ow2LwY"
+    },
+    {
+      "id": "qVtgaKnoFzk"
+    },
+    {
+      "id": "hbO-qkNaVCE"
+    },
+    {
+      "id": "mJqy3m_g0DA"
+    },
+    {
+      "id": "-SUxHV2uHfk"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

@@ -20,7 +20,7 @@ async function manipularSubmissaoFormulario(event) {
     if (id) {
       await api.editarPensamento({ id, conteudo, autoria });
     } else {
-      await api.buscarPensamento({ conteudo, autoria });
+      await api.criarPensamento({ conteudo, autoria });
     }
     ui.renderizarPensamentos();
   } catch {
